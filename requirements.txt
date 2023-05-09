@@ -1,0 +1,6 @@
+pip==23.1.2
+tweepy>=4.1.0
+scikit-learn==0.24.2
+html2text
+beautifulsoup4
+humanize
